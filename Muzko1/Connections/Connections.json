@@ -1,0 +1,40 @@
+{
+  "999193a6-c570-44db-bf9f-d229ce2d5c2c": {
+    "connectionRef": {
+      "displayName": "Excel",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1623/1.0.1623.3210/excel/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_excel"
+    },
+    "datasets": {
+      "b!yORbMbI4dUihDMkCTL9I4R36y8Cl8LpHiacXLlDvKBLG6EXU3hH9SK3w7Jfv4koH.01XWLTNYQOJV6HQZPBWZC3F6SCHNIQI7TP": {
+        "dataSources": {
+          "MiBandaSonora": {
+            "tableName": "MiBandaSonora"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "MiBandaSonora"
+    ],
+    "dependencies": {
+      "fileSource": "a1689133-ca4d-40f3-8589-535488e82d6b"
+    },
+    "dependents": [],
+    "id": "999193a6-c570-44db-bf9f-d229ce2d5c2c"
+  },
+  "a1689133-ca4d-40f3-8589-535488e82d6b": {
+    "connectionRef": {
+      "displayName": "OneDrive para la Empresa",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/shgogna/globalperconnector-train1/1.0.1639.3310/onedriveforbusiness/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_onedriveforbusiness"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "999193a6-c570-44db-bf9f-d229ce2d5c2c"
+    ],
+    "id": "a1689133-ca4d-40f3-8589-535488e82d6b"
+  }
+}

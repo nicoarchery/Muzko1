@@ -1,0 +1,27 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2023-03-21T17:10:23.7160000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "Fuente": "Fuente",
+      "Genero": "Genero",
+      "Id_lista": "Id_lista",
+      "Image": "Image",
+      "Interprete": "Interprete",
+      "Momento": "Momento",
+      "Nombre": "Nombre",
+      "Relato": "Relato"
+    },
+    "DatasetName": "b!yORbMbI4dUihDMkCTL9I4R36y8Cl8LpHiacXLlDvKBLG6EXU3hH9SK3w7Jfv4koH.01XWLTNYQOJV6HQZPBWZC3F6SCHNIQI7TP",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "MiBandaSonora",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
